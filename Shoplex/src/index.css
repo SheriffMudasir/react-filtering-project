@@ -25,3 +25,7 @@ a{
     cursor: pointer;
 
 }
+
+.all {
+    background: linear-gradient(blue, crimson);
+}
